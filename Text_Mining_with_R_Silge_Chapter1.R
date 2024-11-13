@@ -122,8 +122,8 @@ austen_tidy_format_stop_words_removed %>%
 # Use book ID to download
 hgwells <- gutenberg_download(c(35,36,5230,159)) # 159 doesn't work. 
 # The book may have been archived. Manually download from website. (Line 120)
-# or download from:
-# [insert html link here]. - remember to remove meta data before choosing file
+# or download from: https://www.gutenberg.org/cache/epub/159/pg159.txt
+# remember to remove meta data before choosing file
 moreau_159 <- read_file(file.choose())
 # With help from chat GPT: 
 # 03 Prompts:"i want to split a text into lines using R. Can I show you some of the code I am using?" .... "moreau_159 <- read_file(file.choose())"...
