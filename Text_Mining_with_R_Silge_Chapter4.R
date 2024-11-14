@@ -170,7 +170,7 @@ not_plus_other_words %>%
   ylab("Sentiment value * # of occurrences") +
   coord_flip()
 # End of David Robinson's code 
-# My code didn't work (Used David Robinson's codes instead - lines 151-163)
+# My code didn't work (Used David Robinson's codes instead - lines 160-171)
 # # This is what I want to plot but my code didn't fix the order.
 # see <- bigram_ss_plot_original %>% 
 #   group_by(word1) %>% 
