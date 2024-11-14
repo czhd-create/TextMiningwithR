@@ -266,7 +266,7 @@ kjv_bigrams %>%
 
 # Error detected: 
 # ! object 'weight' not found
-# visualize_bigrams() is a function you custom-made (lines 220-232) so naturally
+# visualize_bigrams() is a function you custom-made (lines 222-234) so naturally
 # there is no official documentation and an LLM won't understand it!
 # To debug, change the word 'weight' in your function to 'n' 
 # It was weight due to line 180 during renaming of column names
