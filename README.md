@@ -5,6 +5,8 @@ I created this repo as I needed to learn text mining for my work at NUS. The rec
 
 2. If the output of my code differ from the book's, it may be due to updates in the datasets sometime after the book was problished. At this point (end of Chapter 4), besides datasets that came with the packages, the other datasets are from Project Gutenberg, a library of free eBooks. The website's url is: https://www.gutenberg.org
 
-3. Feel free to reach out to me if you have feedback on my code: rtraining.help@gmail.com
+3. Feel free to reach out to me if you have feedback on my code. My email address is: rtraining.help@gmail.com
 
 4. I hope you find my code helpful!
+
+czhd-create
