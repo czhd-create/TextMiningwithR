@@ -1,5 +1,5 @@
 November 2024 : \
-I created this repo as I needed to learn text mining for my work at NUS. The recommended book had been published about 5 years ago and the code printed on the version I am using (2017-06-08 First Release) needed revision. In my code, I try to adhere to the book's code output as much as I can.
+I created this repo as I needed to learn text mining for my work at NUS. The recommended book had been published about 5 years ago and the code printed on the physical copy (2017-06-08 First Release) needed revision. In my code, I try to adhere to the book's code output as much as I can.
 
 1. All uploaded coding scripts were tested to ensure they run successfully.
 
