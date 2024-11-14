@@ -1,5 +1,5 @@
 November 2024 : \
-I created this repo to run the code printed on the book. I was learning text mining for my work at NUS. The recommended book had been published about 7 years ago and the code printed on the physical copy (2017-06-08 First Release) had some errors. You can find the latest code on the author's GitHub pages. Here, I try to reproduce the book's code output as much as I can, using the book's code as a learning tool.
+I created this repo to run the code printed on the book. I was learning text mining for my work at NUS. The recommended book had been published about 7 years ago and the code printed on the physical copy (2017-06-08 First Release) had some errors. You can find the latest code on the authors' GitHub pages. Here, I try to reproduce the book's code output as much as I can, using the book's code as a learning tool.
 
 1. The work by Julia Silge and David Robinson is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License.
 
