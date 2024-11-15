@@ -279,7 +279,7 @@ stock_tokens_words %>%
   facet_wrap(~sentiment, nrow = 3, ncol = 3, scales = "free")+
   coord_flip()
 
-#Note: furthermore, considered "superfluous" in Loughran lexicon, is a stop word
+#Note: The stop word, furthermore, is considered "superfluous" in Loughran lexicon.
 
 # Number of words used in each company that is associated with Loughran lexicon
 stock_sentiment_count <- stock_tokens_words %>%
