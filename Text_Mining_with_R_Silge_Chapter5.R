@@ -4,7 +4,7 @@
 # Chapter 5 
 
 #------- Please read lines 7 to 20 before proceeding ---------#
-# tm.plugin.webmining is  is an R-package which facilitates text retrieval 
+# tm.plugin.webmining is an R-package which facilitates text retrieval 
 # from real-time online feed formats like XML (RSS, ATOM) and JSON.
 # The installation is very technical and requires some sophisticated skills.
 # Mac OS with ARM architecture: An ARM-compatible Java version is needed.
