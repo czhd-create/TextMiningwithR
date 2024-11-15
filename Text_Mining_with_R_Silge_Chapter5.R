@@ -9,8 +9,9 @@
 # The installation is very technical and requires some sophisticated skills.
 # Mac OS with ARM architecture: An ARM-compatible Java version is needed.
 
+# The abovementioned R package will impact one section of the book.
 # Thankfully, the authors saved the dataset during the authoring of the book
-# Hence the rest of the section can only be followed by using the dataset 
+# Hence the rest of that section can only be followed by using the dataset 
 # saved in the author, D. Robinson's github page:
 # https://github.com/dgrtwo/tidy-text-mining/tree/master/data
 # In particular, look for and download this file into your local directory: 
