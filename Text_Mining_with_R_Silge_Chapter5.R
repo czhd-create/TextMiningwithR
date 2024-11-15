@@ -139,8 +139,8 @@ year_term_counts <- inaug_speeches_tidy_df %>%
   mutate(year_total = sum(count))
 
 # ChatGPT: 
-# Please explain what this means in R language's function extract regex = "(\\d+)"
-# the regex pattern "(\\d+)" is used inside the extract() function 
+# Please explain what this means in R language's function extract regex = "(\\d+)"?
+# Answer: the regex pattern "(\\d+)" is used inside the extract() function 
 # to match and extract one or more digits from a string column.
 
 # lets pick these six words to show how they change in frequency over time.
