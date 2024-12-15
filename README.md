@@ -1,5 +1,7 @@
 11 December 2024 : \
-This repo was created for any one who is learning text mining. A good resource to start is "Text Mining with R" (2017-06-08 First Release), but the original R codes had some errors. You can find the latest code on the author David's GitHub page (https://github.com/dgrtwo/tidy-text-mining). Here, I update the book's code.
+This repo was created for any one who is learning text mining. A good resource to start is "Text Mining with R" (2017-06-08 First Release), but the original R codes had some errors. I added comments to code which helped in my understanding of text mining. 
+
+You can also find the latest code on the author David's GitHub page (https://github.com/dgrtwo/tidy-text-mining).
 
 1. The work by Julia Silge and David Robinson is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License. To find out more, go to:
 https://creativecommons.org/licenses/by-nc-sa/3.0/us/
