@@ -10,6 +10,6 @@ https://creativecommons.org/licenses/by-nc-sa/3.0/us/
 
 3. Besides Chapter 8 which uses a live jSON connection, the datasets are either from the abovementioned author's GitHub page or from Project Gutenberg, a library of free eBooks. Project Gutenberg's website's url is: https://www.gutenberg.org
 
-4. If you like to reach me, my email address: rtraining.help@gmail.com
+4. If you like to reach me, connect with me on LinkedIn.
 
 I hope you find my code helpful. - czhd-create
