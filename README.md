@@ -1,5 +1,5 @@
 27 December 2024 : \
-This repo was created for any one who is learning text mining. A good resource to start is "Text Mining with R" (2017-06-08 First Release), but the original R codes had some errors. A bsic understanding of, R programming, the tidy approach and use of tidyverse library is required to understand the code. I added comments to code which helped in my understanding of text mining. 
+This repo was created for any one who is learning text mining. A good resource to start is "Text Mining with R" (2017-06-08 First Release), but the original R codes had some errors. A basic understanding of R programming, the tidy approach and use of tidyverse library is required to understand the code. I added comments to code which helped in my understanding of text mining. 
 
 You can also find the latest code on the author David's GitHub page (https://github.com/dgrtwo/tidy-text-mining).
 
